@@ -1,0 +1,32 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders correctly 1`] = `
+<div
+  className={undefined}
+>
+  <dl>
+    <dt
+      className={undefined}
+    >
+      <a
+        aria-controls="accordion1"
+        aria-expanded="false"
+        className={undefined}
+      >
+        First Accordion heading
+      </a>
+    </dt>
+    <dt
+      className={undefined}
+    >
+      <a
+        aria-controls="accordion1"
+        aria-expanded="false"
+        className={undefined}
+      >
+        First Accordion heading
+      </a>
+    </dt>
+  </dl>
+</div>
+`;
